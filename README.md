@@ -1,7 +1,7 @@
 # TOHOKU-exam-infomation
 東北大学の受験関連情報を頑張って集めるものです．
 Information about TOHOKU examination. 
-※ 2024.8及之后
+※ 改革后
 参考书目:
 <img width="1187" height="384" alt="image" src="https://github.com/user-attachments/assets/48ace2c5-a8f2-436e-bdf0-1976dbda8e5b" />
 <img width="1182" height="305" alt="image" src="https://github.com/user-attachments/assets/f07c39e2-dcb5-4944-9d45-fb4f4325e8a3" />
@@ -75,3 +75,55 @@ coshx=cosix(coshxdx=sinhx)
 | $t\sin(at)$ | $\frac{2as}{(s^2+a^2)^2}$     |
 | $t\cos(at)$ | $\frac{s^2-a^2}{(s^2+a^2)^2}$ |
 # 线性代数：
+2018-8:LU分解,求行列式，求逆
+
+<img width="849" height="570" alt="image" src="https://github.com/user-attachments/assets/40ff8d0c-48da-4adb-8a3b-f279cf2c5b93" />
+
+2019-3:行列式,求逆,特征值和特征向量
+
+<img width="824" height="421" alt="image" src="https://github.com/user-attachments/assets/78970690-57fe-4060-9389-31d3e9bf36a5" />
+
+2019-8:行列式,求逆,特征值和特征向量
+
+<img width="680" height="384" alt="image" src="https://github.com/user-attachments/assets/110019d9-39e2-425b-b81b-decf115a6f00" />
+
+2020-3:特征值和特征向量,A的n次方,矩阵指数exp(A) 的计算与理解
+
+<img width="617" height="280" alt="image" src="https://github.com/user-attachments/assets/b640de9d-bd7d-47dc-a163-7fc9df00739a" />
+
+2020-8:求逆,特征值和特征向量,离散线性系统的稳定性
+
+<img width="753" height="345" alt="image" src="https://github.com/user-attachments/assets/9448961c-e254-4e34-8e2e-f178c1a02490" />
+
+2021-3:特征值和特征向量,P逆AP
+
+<img width="760" height="289" alt="image" src="https://github.com/user-attachments/assets/9a17eef0-c6ca-4363-baa4-085d282b2c2a" />
+
+2021-8:特征值和特征向量,P逆AP,P逆AP的n次方,A的n次方
+
+<img width="760" height="299" alt="image" src="https://github.com/user-attachments/assets/3b654606-bb74-447c-9cb9-5bffc09a7944" />
+
+2022-3:特征值和特征向量,凯莱–哈密尔顿定理（Cayley–Hamilton theorem）,矩阵多项式计算
+
+<img width="736" height="237" alt="image" src="https://github.com/user-attachments/assets/25ff6450-3dd6-45a5-9454-c01f53a6ab41" />
+
+2022-8:特征值和特征向量,特殊矩阵Hermitian matrix和Unitary matrix
+
+<img width="716" height="239" alt="image" src="https://github.com/user-attachments/assets/81b12a19-7335-43ee-aeb8-0f8a4ffe3811" />
+
+2023-3:特征值和特征向量,Jordan形,A的n次方
+
+<img width="797" height="283" alt="image" src="https://github.com/user-attachments/assets/aa96234b-0150-4687-9bc6-da737b461f6f" />
+
+
+2023-8:基底,直交可能,なす角,施密特正交化
+
+<img width="753" height="331" alt="image" src="https://github.com/user-attachments/assets/8801ac1d-d2ac-49b4-abd4-b3c27807ab8e" />
+
+2024-8:特征值和特征向量,P逆AP,A的n次方
+<img width="719" height="200" alt="image" src="https://github.com/user-attachments/assets/fd96e937-930d-4c23-bb82-642f3645bed4" />
+
+2025-3:矩阵转置,矩阵乘法,行列式
+
+<img width="622" height="290" alt="image" src="https://github.com/user-attachments/assets/518f0078-49a2-4d9f-8d51-588958e0b0ad" />
+
