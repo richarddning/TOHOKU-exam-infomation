@@ -16,10 +16,32 @@ Information about TOHOKU examination.
 
 <img width="644" height="347" alt="image" src="https://github.com/user-attachments/assets/6adb70a0-19bf-431e-b7ad-bd90665abf74" />
 
-# 傅里叶变换：2019-3,2019-8,2021-3,2021-8
+# 傅里叶变换：2019-3,2019-8,2021-8
 1.高斯分布（Gaussian distribution）与傅里叶变换结合：2019-3(電子情報系の応用数学-1.4)
 
 <img width="884" height="244" alt="image" src="https://github.com/user-attachments/assets/dca96af2-eb3b-492e-a7e6-dc0a8b75bf32" />
 
-2.
-# 拉普拉斯变换：2022-3,2024-3
+2.函数图像描绘和傅里叶变换：2019-8(電子情報系の応用数学-1.4)
+
+<img width="802" height="284" alt="image" src="https://github.com/user-attachments/assets/b71a891f-de45-4775-8f7d-25643b604fb8" />
+
+
+# 拉普拉斯变换：2021-3,2022-3,2024-3
+3.对拉普拉斯变换进行求二阶导数和求解拉普拉斯方程
+
+<img width="1003" height="424" alt="image" src="https://github.com/user-attachments/assets/92b7a560-f9ad-431d-847c-f0bc2b6dfba4" />
+
+常见的拉普拉斯求导的结果：
+| $f(t)$      | $F(s)$                        |
+| ----------- | ----------------------------- |
+| $1$         | $\frac{1}{s}$                 |
+| $t$         | $\frac{1}{s^2}$               |
+| $t^n$       | $\frac{n!}{s^{n+1}}$          |
+| $e^{at}$    | $\frac{1}{s-a}$               |
+| $t e^{at}$  | $\frac{1}{(s-a)^2}$           |
+| $\sin(at)$  | $\frac{a}{s^2+a^2}$           |
+| $t\sin(at)$ | $\frac{2as}{(s^2+a^2)^2}$     |
+| $\cos(at)$  | $\frac{s}{s^2+a^2}$           |
+| $t\cos(at)$ | $\frac{s^2-a^2}{(s^2+a^2)^2}$ |
+
+# 线性代数：
