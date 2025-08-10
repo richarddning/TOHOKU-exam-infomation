@@ -13,9 +13,13 @@ Information about TOHOKU examination.
 <img width="721" height="432" alt="image" src="https://github.com/user-attachments/assets/04fbee01-582a-47b2-ac53-276e803529bd" />
 
 2.Gamma函数：2018-8(電子情報系の応用数学-6.1-a)
+
 <img width="644" height="347" alt="image" src="https://github.com/user-attachments/assets/6adb70a0-19bf-431e-b7ad-bd90665abf74" />
+
 # 傅里叶变换：2019-3,2019-8,2021-3,2021-8
 1.高斯分布（Gaussian distribution）与傅里叶变换结合：2019-3(電子情報系の応用数学-1.4)
+
 <img width="884" height="244" alt="image" src="https://github.com/user-attachments/assets/dca96af2-eb3b-492e-a7e6-dc0a8b75bf32" />
+
 2.
 # 拉普拉斯变换：2022-3,2024-3
