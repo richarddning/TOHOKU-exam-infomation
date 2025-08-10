@@ -1,6 +1,7 @@
 # TOHOKU-exam-infomation
 東北大学の受験関連情報を頑張って集めるものです．
 Information about TOHOKU examination. 
+※ 2024.8及之后
 参考书目:
 <img width="1187" height="384" alt="image" src="https://github.com/user-attachments/assets/48ace2c5-a8f2-436e-bdf0-1976dbda8e5b" />
 <img width="1182" height="305" alt="image" src="https://github.com/user-attachments/assets/f07c39e2-dcb5-4944-9d45-fb4f4325e8a3" />
@@ -16,18 +17,46 @@ Information about TOHOKU examination.
 
 <img width="644" height="347" alt="image" src="https://github.com/user-attachments/assets/6adb70a0-19bf-431e-b7ad-bd90665abf74" />
 
+3.特异点,复变积分和留数定理在实积分的应用：2020-3 (電子情報系の応用数学-4.4/4.5/4.8)
+
+<img width="730" height="457" alt="image" src="https://github.com/user-attachments/assets/e02aabc4-37b5-47b9-ad22-b4bd3749d89c" />
+
+4.不同路径下的复变积分,复变积分和留数定理在实积分的应用：2020-8(電子情報系の応用数学-4.4/4.5/4.8)
+
+<img width="723" height="479" alt="image" src="https://github.com/user-attachments/assets/38cb2b3e-b7e8-43f9-83ed-11bb74ef00f0" />
+
+<img width="653" height="717" alt="image" src="https://github.com/user-attachments/assets/ed44e3ef-c233-4039-8700-eb560619459a" />
+
+※5.柯西黎曼定理,sinhx和sinx的转换：2024-8(電子情報系の応用数学-2.2/2.3/2.4)
+sihx=-isinix
+
+<img width="540" height="80" alt="image" src="https://github.com/user-attachments/assets/23a50502-a193-4f10-996f-43744ee178ec" />
+
+coshx=cosix(coshxdx=sinhx)
+
+<img width="505" height="119" alt="image" src="https://github.com/user-attachments/assets/d24c7aa2-3c9b-48e4-a2cf-4cebcd93081b" />
+
+<img width="736" height="544" alt="image" src="https://github.com/user-attachments/assets/b2f92960-3430-4119-b4e1-95250bfc00f1" />
+
+※6.复变数列,泰勒展开：2025-3(電子情報系の応用数学-4.1/4.2)
+由数列求和公式推导出基础的数列，再由基础的数列进行求导变化，最后对数列进行泰勒展开
+
+<img width="740" height="347" alt="image" src="https://github.com/user-attachments/assets/d147921f-e140-455d-805a-9ff33fbd18a5" />
+
 # 傅里叶变换：2019-3,2019-8,2021-8
-1.高斯分布（Gaussian distribution）与傅里叶变换结合：2019-3(電子情報系の応用数学-1.4)
+1.高斯分布（Gaussian distribution）与傅里叶变换结合：2019-3(電子情報系の応用数学-1.3/1.4)
 
 <img width="884" height="244" alt="image" src="https://github.com/user-attachments/assets/dca96af2-eb3b-492e-a7e6-dc0a8b75bf32" />
 
-2.函数图像描绘和傅里叶变换：2019-8(電子情報系の応用数学-1.4)
+2.函数图像描绘和傅里叶变换：2019-8(電子情報系の応用数学-1.3/1.4)
 
 <img width="802" height="284" alt="image" src="https://github.com/user-attachments/assets/b71a891f-de45-4775-8f7d-25643b604fb8" />
 
+3.傅里叶级数展开：2021-8(電子情報系の応用数学-1.1)
+<img width="641" height="429" alt="image" src="https://github.com/user-attachments/assets/aeb0a273-b569-42f4-95e7-1e56b209236c" />
 
 # 拉普拉斯变换：2021-3,2022-3,2024-3
-3.对拉普拉斯变换进行求二阶导数和求解拉普拉斯方程
+3.对拉普拉斯变换进行求二阶导数和求解拉普拉斯方程：2021-3(電子情報系の応用数学-5.1/5.3)
 
 <img width="1003" height="424" alt="image" src="https://github.com/user-attachments/assets/92b7a560-f9ad-431d-847c-f0bc2b6dfba4" />
 
@@ -40,8 +69,9 @@ Information about TOHOKU examination.
 | $e^{at}$    | $\frac{1}{s-a}$               |
 | $t e^{at}$  | $\frac{1}{(s-a)^2}$           |
 | $\sin(at)$  | $\frac{a}{s^2+a^2}$           |
-| $t\sin(at)$ | $\frac{2as}{(s^2+a^2)^2}$     |
 | $\cos(at)$  | $\frac{s}{s^2+a^2}$           |
+| $\sinh(at)$ | $\frac{a}{s^2-a^2}$           |
+| $\cosh(at)$ | $\frac{s}{s^2-a^2}$           |
+| $t\sin(at)$ | $\frac{2as}{(s^2+a^2)^2}$     |
 | $t\cos(at)$ | $\frac{s^2-a^2}{(s^2+a^2)^2}$ |
-
 # 线性代数：
