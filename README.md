@@ -229,16 +229,22 @@ Mealy形和Moore形的状态转移图,mealy形的状态转移表,设计时序电
 # HARDWARE:
 ※2024.8
 1.公理证明
+
 2.卡诺图化简
+
 3.给定电路元件的目标论理式的设计
 
 <img width="825" height="733" alt="image" src="https://github.com/user-attachments/assets/214343cf-e765-41b3-90cf-a4c1725956c8" />
 
 ※2025.3
 给出了一个3输入2输出的函数,给出了最小伦理和的形式以及最小积和形的化简过程
+
 1-a.由figa和文字描述的关系推导出输出为1的条件,完成真值表
+
 1-b.最小积和形式的求解以及导出过程
+
 2-a.根据figc的真值表求出最小伦理和的形式
+
 2-b.求出相应的最小积和形和对应的化简过程
 
 <img width="816" height="699" alt="image" src="https://github.com/user-attachments/assets/eae1b95d-9eca-449a-9cf0-4e5c4464b872" />
