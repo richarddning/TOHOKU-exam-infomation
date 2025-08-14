@@ -126,3 +126,122 @@ coshx=cosix(coshxdx=sinhx)
 
 <img width="622" height="290" alt="image" src="https://github.com/user-attachments/assets/518f0078-49a2-4d9f-8d51-588958e0b0ad" />
 
+# 数电:
+数电部分主要围绕数电,逻辑函数和少量的自动机进行说明,由于2019年以后的数电部分中只涵盖很少一部分的自动机,因此主要的复习方向和复习的重点应该还是数电,并且由于2024.8以后的改革,不再区分情报基础1和专业1
+因此重点应该还是放在数电和逻辑函数上( •̀ ω •́ )y
+# 基础:
+2020.3
+通过真值表对逻辑函数进行判断,命题真假的判定
+3变数函数对应的对称函数
+
+<img width="324" height="195" alt="image" src="https://github.com/user-attachments/assets/c57a1065-bf08-4d33-962d-a4d0bf988ad9" />
+
+<img width="883" height="466" alt="image" src="https://github.com/user-attachments/assets/81e9dc8c-8035-4d5a-bf64-7fd7878cc6c4" />
+
+2020.8
+QM法进行化简,线性函数的判断,积和标准型和环和标准型
+
+<img width="791" height="391" alt="image" src="https://github.com/user-attachments/assets/64b9b505-301c-44fc-b542-090e8478d857" />
+
+2021.3
+主要考察逻辑函数的定义与证明
+
+<img width="957" height="508" alt="image" src="https://github.com/user-attachments/assets/a4ae9188-d887-4645-b4bd-d45db843e6c3" />
+
+2021.8
+关于布尔束的定义,通过题目给出的定义进行证明
+
+<img width="793" height="402" alt="image" src="https://github.com/user-attachments/assets/c40145b9-8e4b-4871-90c3-092986515882" />
+
+2022.3
+真值表设计,卡诺图化简,组合电路实现
+
+<img width="708" height="753" alt="image" src="https://github.com/user-attachments/assets/f92667e7-5a1f-4ed5-9b26-294c221117a9" />
+
+2022.8
+对称函数的性质,对称函数与环合标准式
+
+<img width="607" height="476" alt="image" src="https://github.com/user-attachments/assets/3e95e1c0-309a-438a-8834-5dba9ba98289" />
+
+2023.3
+QM法,极小完成系,真值表证明伦理式
+
+<img width="910" height="535" alt="image" src="https://github.com/user-attachments/assets/13dba5e8-9aff-4d56-9115-2892a11fa582" />
+
+2023.8
+环合标准式,环合标准式的化简，卡诺图化简,命题判断
+
+<img width="823" height="687" alt="image" src="https://github.com/user-attachments/assets/e506f5ca-3e02-48ec-bf59-fb5bcf471548" />
+
+2024.3
+命题成立,中立函数,命题判断
+
+<img width="887" height="519" alt="image" src="https://github.com/user-attachments/assets/8740fb17-a339-4a8b-849e-eb4393c19944" />
+
+# 专门:
+2020.3
+2进制与10进制之间的转换,不同时刻的取值和关系,全加法器的构建
+
+<img width="879" height="560" alt="image" src="https://github.com/user-attachments/assets/8ae0703a-088b-4118-ad6b-da07c03984e1" />
+
+2020.8
+卡诺图化简,nor电路设计,半加器设计,乘法设计,用EXOR电路设计
+
+<img width="646" height="714" alt="image" src="https://github.com/user-attachments/assets/58421d14-2965-4418-8805-bbd9ff592fbf" />
+
+2021.3
+主要考察mealy的状态转移图及其状态转移表,通过真值表进行卡诺图化简,通过Jk-FF实现电路功能
+
+<img width="818" height="559" alt="image" src="https://github.com/user-attachments/assets/4a5ac45a-309f-4470-abb5-c6d6fd76e02c" />
+
+2021.8
+关于补数的相关定义和通过汇编语言实现一定条件下的输出(汇编语言部分在改革后的考纲中未涉及)
+
+<img width="630" height="639" alt="image" src="https://github.com/user-attachments/assets/e2ef56b3-0d04-44bc-ae4e-317641fe721d" />
+
+2022.3
+卡诺图化简,状态转移表,NAND设计时序电路
+
+<img width="664" height="746" alt="image" src="https://github.com/user-attachments/assets/feb9d456-252e-4403-808a-6fc36b341268" />
+
+2022.8
+卡诺图化简,状态转移图,设计时序电路D触发器
+
+<img width="694" height="561" alt="image" src="https://github.com/user-attachments/assets/2016e334-73b8-44e6-b647-e43795883777" />
+
+2023.3
+2进制与10进制之间的转换,不同时刻的取值和关系,全加法器的构建
+
+<img width="719" height="740" alt="image" src="https://github.com/user-attachments/assets/681b3042-e6a8-48db-bf8f-d4b7c876ba02" />
+
+2023.8
+Mealy形和Moore形的状态转移图,mealy形的状态转移表,设计时序电路
+
+<img width="697" height="683" alt="image" src="https://github.com/user-attachments/assets/112a9e99-4e8d-4e5a-be33-22c1ee028972" />
+
+2024.3
+触发器间的变换,JK构成D触发器,SR触发器构成D触发器,沿上升沿变化的图像
+
+<img width="698" height="719" alt="image" src="https://github.com/user-attachments/assets/b1de0192-2cf8-47bb-a1d9-02ded858de23" />
+
+<img width="679" height="303" alt="image" src="https://github.com/user-attachments/assets/3c4d9ee1-74b0-4176-b157-c2497ea3ca12" />
+
+# HARDWARE:
+※2024.8
+1.公理证明
+2.卡诺图化简
+3.给定电路元件的目标论理式的设计
+
+<img width="825" height="733" alt="image" src="https://github.com/user-attachments/assets/214343cf-e765-41b3-90cf-a4c1725956c8" />
+
+※2025.3
+给出了一个3输入2输出的函数,给出了最小伦理和的形式以及最小积和形的化简过程
+1-a.由figa和文字描述的关系推导出输出为1的条件,完成真值表
+1-b.最小积和形式的求解以及导出过程
+2-a.根据figc的真值表求出最小伦理和的形式
+2-b.求出相应的最小积和形和对应的化简过程
+
+<img width="816" height="699" alt="image" src="https://github.com/user-attachments/assets/eae1b95d-9eca-449a-9cf0-4e5c4464b872" />
+
+<img width="615" height="704" alt="image" src="https://github.com/user-attachments/assets/107ce8af-d7e3-419f-b6dd-97657d83b951" />
+
