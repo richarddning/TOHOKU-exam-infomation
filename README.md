@@ -7,7 +7,9 @@ Information about TOHOKU examination.
 # 数学:
 # 复变函数：2018-3,2018-8,2020-3,2020-8,2024-8,2025-3（※ 改革后）
 考察的知识点
+
 1.复变积分和留数定理在实积分的应用：2018-3 (電子情報系の応用数学-4.8)
+
 主要考察复平面留数法计算实积分 + 利用积分变换（Laplace）与复积分结果
 
 <img width="721" height="432" alt="image" src="https://github.com/user-attachments/assets/04fbee01-582a-47b2-ac53-276e803529bd" />
